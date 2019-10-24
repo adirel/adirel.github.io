@@ -5,11 +5,14 @@ html,body {
 .boxshadow{
   box-shadow: 4px 4px 10px 0px #888888;
 }
-.getmeup{
-  position: absolute;
-  z-index: 1000;
-  flex: auto;
-  flex-basis: auto;
+.getmeup {
+  margin-bottom: 10px;
+}
+.avatar-icon {
+  background: -webkit-gradient(linear, left top, left bottom, from(#173753), to(#6DAEDB));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: initial; /* reset Font Awesome's display:inline-block */
 }
 .avatar {
   font-size: 15vw;
@@ -19,11 +22,22 @@ html,body {
   display: initial; /* reset Font Awesome's display:inline-block */
 }
 .avatar-icons {
-  font-size: 4vw;
-  background: -webkit-gradient(linear, left top, left bottom, from(#FDD247), to(#4392F1));
+  font-size: 30px;
+  background: -webkit-gradient(linear, left top, left bottom, from(#1d486e), to(#000000));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display: initial; /* reset Font Awesome's display:inline-block */
+}
+.avatar-profile {
+  border-radius: 50%;
+  width: 15vw;
+}
+.fixed-col{
+  padding: 5px;
+}
+.avatar-prof {
+  /* border-radius: 50%; */
+  width: 3vw;
 }
 h1 {
   color:#173753;
@@ -31,19 +45,35 @@ h1 {
 h2 {
   color: #4392F1;
 }
+h3 {
+  color: #4392F1;
+}
+h4 {
+  color:#4392F1;
+}
 p {
   color: 6DAEDB;
 }
+.container-fluid-fixes{
+  padding-right: 25px;
+    padding-left: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+}
 .container-fixes {
-  height:90%;
+  height: 80%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: end;
   bottom: 0;
   position: absolute;
   left: 0;
   right: 0;
   background-color: #F8F8F8;
+  z-index: 9;
+  top: 10%;
+  overflow: auto;
 }
 .container-fixes-up {
   height:10%;
@@ -59,7 +89,9 @@ p {
 .aldrich-font {
   font-family: 'Aldrich';font-size: 22px;
 }
-
+.aldrich-font-small {
+  font-family: 'Aldrich';font-size: 15px;
+}
 .area{
   background: #FFFFFF;
   background: -webkit-linear-gradient(to left, #ffffff, #f8f8f8);
