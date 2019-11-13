@@ -5,7 +5,7 @@
 
 <img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https://adirel.github.io">
 <img alt="GitHub top language" src="https://img.shields.io/badge/License-MIT-yellow.svg">
-
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/adirel/adirel.github.io">
 </div>
 
 ## Usage
