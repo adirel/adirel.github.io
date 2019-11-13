@@ -4,7 +4,6 @@
 <strong>One Page Website/Portfolio Template for Minimal Protfolio.</strong>
 
 <img alt="Website" src="https://img.shields.io/website?style=flat-square&url=https://adirel.github.io">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/FR0ST1N/TooMinimal?style=flat-square">
 <img alt="GitHub top language" src="https://img.shields.io/badge/License-MIT-yellow.svg">
 
 </div>
