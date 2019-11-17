@@ -12,6 +12,7 @@
 ## Usage
 * Edit the `index.hml` file - Content & Expertise
 * Add Whatever you desire
+* Change analytics ID
 
 ## Built With
 
