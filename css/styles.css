@@ -2,6 +2,10 @@ html,body {
   height: 100%;
   overflow: hidden;
 }
+.small-text{
+ font-size: small;
+    color: #173753; 
+}
 .boxshadow{
   box-shadow: 4px 4px 10px 0px #888888;
 }
