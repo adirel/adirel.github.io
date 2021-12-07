@@ -8,9 +8,6 @@
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/adirel/adirel.github.io">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/adirel/adirel.github.io">
 </div>
-## buy me a coffee ?
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W7E635BZQND7U)
-
 
 ## Usage
 * Edit the `index.hml` file - Content & Expertise
