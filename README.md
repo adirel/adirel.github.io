@@ -9,21 +9,8 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/adirel/adirel.github.io">
 </div>
 ## buy me a coffee ?
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'W7E635BZQND7U',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W7E635BZQND7U)
+
 
 ## Usage
 * Edit the `index.hml` file - Content & Expertise
